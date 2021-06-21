@@ -1,6 +1,6 @@
 ## 목차  
-CHAPTER 1 시작하기 전에 
-CHAPTER 2 파이썬 언어의 기본, IPython, 주피터 노트북  
+CHAPTER 1 시작하기 전에   
+CHAPTER 2 파이썬 언어의 기본, IPython, 주피터 노트북   
 CHAPTER 3 내장 자료구조, 함수, 파일  
 CHAPTER 4 NumPy 기본: 배열과 벡터 연산  
 CHAPTER 5 pandas 시작하기  
