@@ -8,12 +8,12 @@ PART 1 (입문) Python 프로그래밍 첫발 내딛기
 006 자료형 개념 배우기  
 007 자료형 출력 개념 배우기(print)  
 008 들여쓰기 개념 배우기  
-009 if문 개념 배우기 ① (if~else)   
-010 if문 개념 배우기 ② (if~elif)  
+009 if문 개념 배우기 ① (if else)   
+010 if문 개념 배우기 ② (if elif)  
 011 for문 개념 배우기 ① (for)  
-012 for문 개념 배우기 ② (for~continue~break)  
-013 for문 개념 배우기 ③ (for~else)  
-014 while문 개념 배우기(while~continue~break)  
+012 for문 개념 배우기 ② (for continue break)  
+013 for문 개념 배우기 ③ (for else)  
+014 while문 개념 배우기(while continue break)  
 015 None 개념 배우기  
 
 PART 2 (초급) Python 프로그래밍 기초 다지기  
@@ -160,9 +160,9 @@ PART 4 (활용) Python 프로그래밍 응용 다지기
 153 디렉터리 제거하기(osrmdir)        
 154 하위 디렉터리 및 파일 전체 삭제하기(shutilrmtree)          
 155 파일이 존재하는지 체크하기(ospathexists)      
-156 파일인지 디렉터리인지 확인하기(ospathisfile, ospathisdir) 
-157 현재 시간을 년-월-일 시:분:초로 출력하기(localtime, strftime)        
-158 올해 경과된 날짜수 계산하기(localtime)                     
+156 파일인지 디렉터리인지 확인하기(ospathisfile, ospathisdir)     
+157 현재 시간을 년-월-일 시:분:초로 출력하기(localtime, strftime)         
+158 올해 경과된 날짜수 계산하기(localtime)                      
 159 오늘의 요일 계산하기(localtime)       
 160 프로그램 실행 시간 계산하기(datetimenow)      
 161 주어진 숫자를 천 단위로 구분하기         
